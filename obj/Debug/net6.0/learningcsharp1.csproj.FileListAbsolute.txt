@@ -1,0 +1,15 @@
+K:\jm9219\learningcsharp1\bin\Debug\net6.0\learningcsharp1.exe
+K:\jm9219\learningcsharp1\bin\Debug\net6.0\learningcsharp1.deps.json
+K:\jm9219\learningcsharp1\bin\Debug\net6.0\learningcsharp1.runtimeconfig.json
+K:\jm9219\learningcsharp1\bin\Debug\net6.0\learningcsharp1.dll
+K:\jm9219\learningcsharp1\bin\Debug\net6.0\learningcsharp1.pdb
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.csproj.AssemblyReference.cache
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.GeneratedMSBuildEditorConfig.editorconfig
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.AssemblyInfoInputs.cache
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.AssemblyInfo.cs
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.csproj.CoreCompileInputs.cache
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.dll
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\refint\learningcsharp1.dll
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.pdb
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\learningcsharp1.genruntimeconfig.cache
+K:\jm9219\learningcsharp1\obj\Debug\net6.0\ref\learningcsharp1.dll
